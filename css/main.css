@@ -1,0 +1,119 @@
+
+body{
+     
+    background-image: linear-gradient(160deg,
+     lightblue 18%, lightblue 20%);
+     font-family:sans-serif;
+     line-height:2.8rem;
+    
+}
+#hero{
+    width:100%;
+    height:100%;
+
+
+}
+
+.form-box{
+    width:400px;
+    height:500px;
+    background-color:steelblue;
+    color:white;
+    border:0;
+    border-radius:10px;
+    margin:10% auto;
+    outline:none;
+    margin-top:30px;
+    box-shadow:1px 1px 1px #fff;
+    
+    
+}
+.color{
+    color:white;
+    font-style:bolder;
+    
+}
+h2 {
+    text-align:center;
+    padding:15px;
+
+
+}
+
+.button-box { 
+    margin-left:20px;
+   
+    }
+
+.password,.email,.FirstName,.LastName{
+    width:90%;
+    padding:10px;
+    border-radius:40px;
+    margin-bottom:10px;
+    border-bottom:1px solid black;
+    border-top:0;
+    border-left:0;
+    border-right:0;
+   
+
+}
+    .password:focus,
+    .email:focus {
+    outline:none;
+    background-color:#fff;}
+    
+    hr{border:1px solid #f1f1f1;
+        
+        width:90%;
+        margin-top:10px;
+        }
+    
+  
+ .check{
+   margin:20px 5px 0px 0px;
+   color: blue;
+   } 
+   
+    
+   .toggle-btn{
+       width:90%;
+    padding:10px;
+    border-radius:40px;
+    margin-bottom:10px;
+    border:0;
+    outline:none;
+    font-weight:bolder;
+    font-size:16px;
+    opacity:0.9;
+    transition:background-color 1s;
+    
+   }
+   .toggle-btn:hover{
+   box-shadow:1px 1px 1px #f1f1f1;
+   opacity:1;
+   background-color:blue;
+       
+       
+   }
+   .icon{
+       
+       background-color:blue;
+       padding:10px 15px;
+       border-radius:50%;
+       font-size:35px;
+       color:#3693ff;
+       margin-left:150px;
+       
+   }
+   
+    .iconn{ margin-top:50px;
+    margin-bottom:-52px;}
+
+
+. Facebook{
+    margin-top:10px;
+}
+
+.text{
+    margin-top:-12px;
+}
