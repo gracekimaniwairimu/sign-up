@@ -2,7 +2,7 @@
 body{
      
     background-image: linear-gradient(160deg,
-     lightblue 18%, lightblue 20%);
+     lightblue 18%);
      font-family:sans-serif;
      line-height:2.8rem;
     
@@ -110,8 +110,7 @@ h2 {
     margin-bottom:-52px;}
 
 
-. Facebook{
-    margin-top:10px;
+
 }
 
 .text{
